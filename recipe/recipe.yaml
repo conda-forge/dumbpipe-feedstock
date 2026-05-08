@@ -1,5 +1,5 @@
 context:
-  version: "0.35.0"
+  version: "0.37.0"
 
 package:
   name: dumbpipe
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://github.com/n0-computer/dumbpipe/archive/refs/tags/v${{ version }}.tar.gz
-  sha256: e001c75a8c5dacd828ec15797b6ec9502b8314a37f7e4974499c743069d60d2f
+  sha256: 7574d4805cc644ca61b5a833decaf98c35b510cab952004c2997a9d0dfd9a371
 
 build:
   number: 0
